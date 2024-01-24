@@ -57,7 +57,7 @@
 							<goal>prepare-agent</goal>
 					    	</goals>
                 			</execution>
-               			 <execution>
+				</executions>
         		</plugin>
 		</plugins>
 	</build>
