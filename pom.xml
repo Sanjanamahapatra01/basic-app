@@ -20,6 +20,8 @@
     		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis> -->
 		<sonar.jacoco.reportPath>${project.build.directory}/jacoco.exec</sonar.jacoco.reportPath>
 		<sonar.language>java</sonar.language>
+		<sonar.host.url>http://user1.dev.ocp.lab:9000</sonar.host.url>
+    		<sonar.login>squ_58948f7b1e56d33b74098916649b866793c96e98</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
